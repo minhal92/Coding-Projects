@@ -1,4 +1,4 @@
-# projects
-A GIT repository used to store and share my recently completed coding projects
+# Coding Projects
+This GIT repository is for sharing my recently completed coding projects with any potential employers. Each separate folder has the relevant code I wrote for that project. 
 
-Each of the codes is stored in a seperate folder. The purpose of sharing this code is to show any potential employers a sample of my coding skills.
+To read about my other projects please visit: https://minhalhussain.com/Recent-Projects/
